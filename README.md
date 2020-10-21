@@ -17,6 +17,7 @@
 <h4>📝 Blog Posts</h4>
 
  -->
+ <p align="left">
  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/ruby-gem.png"/>
@@ -32,6 +33,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ </p>
 <br />
 <br />
  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana" /></p> -->
