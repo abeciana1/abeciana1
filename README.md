@@ -37,5 +37,7 @@
 <br />
 <br />
  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana" /></p> -->
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeciana1&layout=compact&hide=html" alt="abeciana" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana1" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeciana1&layout=compact&hide=html" alt="abeciana" />
+ <!-- </p> -->
+<!-- <p> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana1" /></p>
