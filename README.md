@@ -9,6 +9,31 @@
 - 🤔 I’m looking for help with <strong>career mentorship</strong> and <strong>side-project partners</strong>
 - 📫 How to reach me: <a href="mailto:alex.beciana@gmail.com">alex.beciana@gmail.com</a>
 - 😄 Pronouns: He/Him
+- 🎨 Hobbies: Hiking, creating Bauhaus designs, reading, and playing music
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 💬 Ask me about ... -->
 
+<!-- 
+<h4>📝 Blog Posts</h4>
+
+ -->
+ <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/ruby-gem.png"/>
+ <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+ <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+ <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<br />
+<br />
+ <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana" /></p> -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeciana1&layout=compact&hide=html" alt="abeciana" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana1" /></p>
