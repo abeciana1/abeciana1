@@ -30,6 +30,7 @@
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/redux.png"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
