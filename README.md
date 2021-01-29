@@ -7,8 +7,8 @@
 
 </h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/abeciana1/le-cine-backend">Le Cine Backend</a>, <a href="https://github.com/abeciana1/le-cine-frontend">Le Cine Frontend</a>
-- 🌱 I’m currently learning <strong>data structures and algorithms</strong>
+- 🔭 I’m currently working on <strong>adding a few cool feature on my portfolio ... please <a href="https://www.alexbeciana.com">visit</a></strong>
+- 🌱 I’m currently learning <strong>NextJS</strong>
 - 👯 I’m looking to collaborate on <strong>open-source projects</strong>
 - 🤔 I’m looking for help with <strong>career mentorship</strong> and <strong>side-project partners</strong>
 - 📫 How to reach me: <a href="mailto:alex.beciana@gmail.com">alex.beciana@gmail.com</a>
