@@ -7,7 +7,7 @@
 
 </h3>
 
-- 🔭 I’m currently working on <strong>adding a few cool feature on my portfolio ... please <a href="https://www.alexbeciana.com">visit</a></strong>
+- 🔭 I’m currently working on <strong>adding a few cool features on my portfolio ... please <a href="https://www.alexbeciana.com">visit</a></strong>
 - 🌱 I’m currently learning <strong>NextJS</strong>
 - 👯 I’m looking to collaborate on <strong>open-source projects</strong>
 - 🤔 I’m looking for help with <strong>career mentorship</strong> and <strong>side-project partners</strong>
