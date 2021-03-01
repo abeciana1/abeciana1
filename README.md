@@ -23,19 +23,19 @@
 
  -->
  <p align="left">
- <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
+ <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby"/>
  <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/ruby-gem.png"/>
- <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
- <img src="https://img.icons8.com/color/48/000000/css3.png"/>
- <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ <img src="https://img.icons8.com/color/48/000000/ruby-gem.png" alt="Ruby Gems" />
+ <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+ <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+ <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+ <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgresql" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
- <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
- <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
- <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Adobe Illustrator"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe Xd"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png" alt="Adobe Indesign"/>
  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" alt="bootstrap" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
