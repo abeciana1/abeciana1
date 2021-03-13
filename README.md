@@ -5,8 +5,7 @@
 
 <h3 align="center">Full-stack web developer with an entrepreneurial spirit with experience in digital marketing and leading a startup.</h3>
 
-<h4 align="center">CEO, Founder of <a href="https://www.sweetstatic.com">Sweet Static</a> and Creator of <a href="https://rubygems.org/gems/rcli_app">rcli_app</a></h4>
-
+<h3 align="center">CEO, Founder of <a href="https://www.sweetstatic.com">Sweet Static</a> and Creator of <a href="https://rubygems.org/gems/rcli_app">rcli_app</a></h3>
 <h3>Dev Jokes</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
@@ -78,3 +77,5 @@
  <!-- </p> -->
 <!-- <p> -->
 <img src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana1" /></p>
+
+[![Visits Badge](https://badges.pufler.dev/visits/abeciana1/abeciana1)](https://badges.pufler.dev)
