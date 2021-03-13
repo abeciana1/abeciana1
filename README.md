@@ -79,3 +79,4 @@
 <!-- <p> -->
 <img src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana1" /></p>
 
+<img src="https://github-readme-linkedin.vercel.app/experience?username=alexbeciana" />
