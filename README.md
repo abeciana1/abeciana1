@@ -77,5 +77,3 @@
  <!-- </p> -->
 <!-- <p> -->
 <img src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana1" /></p>
-
-[![Visits Badge](https://badges.pufler.dev/visits/abeciana1/abeciana1)](https://badges.pufler.dev)
