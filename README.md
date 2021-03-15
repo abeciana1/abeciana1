@@ -78,8 +78,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeciana1&layout=compact&hide=html" alt="abeciana" />
  <!-- </p> -->
 <!-- <p> -->
-<img src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true&count_private=true&include_all_commits=true" alt="abeciana1" />
+<img src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true&count_private=false&include_all_commits=true" alt="abeciana1" />
 </p>
 
 <!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeciana1&include_all_commits=true&show_icons=true&count_private=true) -->
-
