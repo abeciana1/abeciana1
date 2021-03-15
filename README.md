@@ -81,4 +81,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true&include_all_commits=true" alt="abeciana1" />
 </p>
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=false&include_all_commits=true)
+<!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=false&include_all_commits=true) -->
