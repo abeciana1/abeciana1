@@ -3,7 +3,7 @@
 <!-- ![f](/images/GitHub-banner-photo) -->
 <img src="./images/GitHub-banner-photo.png" alt="Alex Beciana" />
 
-<h3 align="center">Full-stack web developer with an entrepreneurial spirit with experience in digital marketing and leading a startup.</h3>
+<h3 align="center">Full-stack software engineer with an entrepreneurial spirit with experience in digital marketing and leading a startup.</h3>
 
 <h3 align="center">CEO, Founder of <a href="https://www.sweetstatic.com">Sweet Static</a> and Creator of <a href="https://rubygems.org/gems/rcli_app">rcli_app</a></h3>
 <h3>Dev Jokes</h3>
