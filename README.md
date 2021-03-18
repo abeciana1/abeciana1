@@ -11,7 +11,7 @@
 |
 <a href="#skills">My Skills</a>
 |
-<a href="projects">My Projects</a>
+<a href="#projects">My Projects</a>
 </h4>
 </div>
 
