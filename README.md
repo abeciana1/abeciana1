@@ -3,12 +3,18 @@
 <!-- ![f](/images/GitHub-banner-photo) -->
 <img src="./images/GitHub-banner-photo.png" alt="Alex Beciana" />
 
-<h3 align="center">Full-stack software engineer with an entrepreneurial spirit with experience in digital marketing and leading a startup.</h3>
+<h3 align="center">
+Full-stack software engineer with an entrepreneurial spirit with experience in digital marketing and leading a startup.
+</h3>
 
 <h3 align="center">CEO, Founder of <a href="https://www.sweetstatic.com">Sweet Static</a> and Creator of <a href="https://rubygems.org/gems/rcli_app">rcli_app</a></h3>
-<h3>Dev Jokes</h3>
+<h2>Dev Jokes</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+<h2>A little more about me...</h2>
+<div>Full-stack software engineer with entrepreneurial spirit with 5 years of digital marketing, product management, and community management experience, working in tech (startup to FAANG), education, and music as well as leading a profitable startup. I'm a recent Flatiron School graduate and accustomed to the Agile methodology, working across technical and non-technical teams, and managing project roadmaps.</div>
+<br/>
+<br/>
 <div style="font-size: 16px">
     <li>🔭 I’m currently working on <strong>Jobase</strong></li>
     <li>🌱 I’m currently learning <strong>NextJS</strong></li>
@@ -19,12 +25,22 @@
     <li>🏋 <a href="https://www.alexbeciana.com/about" target="_blank" alt="Alex Beciana - Skills, Experience, and Education">Learn more</a> about professional skills, experience, and education </li>
     <li>😄 Pronouns: He/Him</li>
     <li>🎨 Hobbies: Hiking, creating Bauhaus designs, reading, playing music, analyzing films</li>
+    <li>💬 Ask me about how I got into engineering</li>
 </div>
+<br>
+<br>
+<h2>📝 Recent Blog Posts</h2>
+<h4>📚<a href="https://www.alexbeciana.com/after-graduation-2/" target="_blank">What I've learned since graduating from a coding bootcamp, Part 2</a>
+| 2020-03-14
+</h4>
+<h4>📚<a href="https://www.alexbeciana.com/after-graduation-1/" target="_blank">What I've learned since graduating from a coding bootcamp, Part 1</a>
+| 2020-03-07
+</h4>
+<h4>Check out more blog posts <a href="https://www.alexbeciana.com/" target="_blank">here</a>!</h4>
 <br>
 <br>
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 💬 Ask me about ... -->
-
 <!-- 
 <h4>📝 Blog Posts</h4>
  -->
