@@ -1,5 +1,7 @@
  <h1 align="center">👋 Hey, I'm Alex</h1>
 
+ <a href="#about-me">About Me</a>
+
 <!-- ![f](/images/GitHub-banner-photo) -->
 <img src="./images/GitHub-banner-photo.png" alt="Alex Beciana" />
 
@@ -11,8 +13,10 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 <h2>Dev Jokes</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+<div id="about-me">
 <h2>A little more about me...</h2>
 <div>Full-stack software engineer with entrepreneurial spirit with 5 years of digital marketing, product management, and community management experience, working in tech (startup to FAANG), education, and music as well as leading a profitable startup. I'm a recent Flatiron School graduate and accustomed to the Agile methodology, working across technical and non-technical teams, and managing project roadmaps.</div>
+</div>
 <br/>
 <br/>
 <div style="font-size: 16px">
