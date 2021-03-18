@@ -24,6 +24,8 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 
 <h3 align="center">CEO, Founder of <a href="https://www.sweetstatic.com">Sweet Static</a> and Creator of <a href="https://rubygems.org/gems/rcli_app">rcli_app</a></h3>
 <div id="dev-jokes"></div>
+<br>
+<br>
 <h2>Dev Jokes</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
@@ -49,6 +51,8 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 <br>
 <br>
 <div id="blog-posts"></div>
+<br>
+<br>
 <h2>📝 Recent Blog Posts</h2>
 <h4>📚<a href="https://www.alexbeciana.com/after-graduation-2/" target="_blank">What I've learned since graduating from a coding bootcamp, Part 2</a>
 | 2020-03-14
@@ -65,6 +69,8 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 <h4>📝 Blog Posts</h4>
  -->
  <div id="skills"></div>
+<br>
+<br>
  <h2>My Skills</h2>
  <p align="left">
  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby"/>
@@ -85,7 +91,12 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  <img src="https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor" alt="heroku" width="40" height="40"/>
  </p>
-
+<br>
+<br>
+<div id="projects"></div>
+<br>
+<br>
+<h2>My Projects</h2>
 <h3>Projects In Progress</h3>
 <div style="border-radius: 20px; padding: 2%; background-color: #FFCD04">
     <h4>Jobase</h4>
