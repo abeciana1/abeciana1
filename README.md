@@ -1,7 +1,7 @@
  <h1 align="center">👋 Hey, I'm Alex</h1>
 
 <div style="text-align:center">
-<h4>Jump to a section</h4>
+<h3>Jump to a section</h3>
 <h4>
 <a href="#about-me">About Me</a>
 |
