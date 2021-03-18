@@ -33,7 +33,7 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 <br>
 <br>
 <h2>A little more about me...</h2>
-<div>Full-stack software engineer with an entrepreneurial spirit with 5 years of digital marketing, product management, and community management experience, working in tech (startup to FAANG), education, and music as well as leading a profitable startup. I'm a recent Flatiron School graduate and accustomed to the Agile methodology, working across technical and non-technical teams, and managing project roadmaps.</div>
+<div>Full-stack software engineer with an entrepreneurial spirit with 5 years of digital marketing, product management, and community management experience, working in tech (startup to FAANG), education, and music as well as leading a profitable startup.  I'm a recent Flatiron School graduate and accustomed to the Agile methodology, working across technical and non-technical teams, and managing project roadmaps.</div>
 <br/>
 <br/>
 <div style="font-size: 16px">
@@ -104,8 +104,12 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
     <br>
     <br>
     <div style="text-align: center">
+    <a href="https://github.com/abeciana1/email-signature-frontend" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=email-signature-frontend" alt="Jobase"/>
+    </a>
+    <a href="https://github.com/abeciana1/email_signature_backend" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=email_signature_backend" alt="Jobase" />
+    </a>
     </div>
 </div>
 <br>
@@ -117,8 +121,12 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
     <br>
     <br>
     <div style="text-align: center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=le-cine-frontend" alt="Jobase"/>
+    <a href="https://github.com/abeciana1/le-cine-frontend" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=le-cine-frontend" alt="Le Cine"/>
+    </a>
+    <a href="https://github.com/abeciana1/le-cine-backend" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=le-cine-backend" alt="Le Cine" />
+    </a>
     </div>
 </div>
  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana" /></p> -->
