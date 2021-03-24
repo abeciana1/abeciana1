@@ -24,14 +24,10 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 
 <h3 align="center">CEO, Founder of <a href="https://www.sweetstatic.com">Sweet Static</a> and Creator of <a href="https://rubygems.org/gems/rcli_app">rcli_app</a></h3>
 <div id="dev-jokes"></div>
-<br>
-<br>
 <h2>Dev Jokes</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <div id="about-me"></div>
-<br>
-<br>
 <h2>A little more about me...</h2>
 <div>Full-stack software engineer with an entrepreneurial spirit with 5 years of digital marketing, product management, and community management experience, working in tech (startup to FAANG), education, and music as well as leading a profitable startup.  I'm a recent Flatiron School graduate and accustomed to the Agile methodology, working across technical and non-technical teams, and managing project roadmaps.</div>
 <br/>
@@ -49,10 +45,7 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
     <li>💬 Ask me about how I got into engineering</li>
 </div>
 <br>
-<br>
 <div id="blog-posts"></div>
-<br>
-<br>
 <h2>📝 Recent Blog Posts</h2>
 <h4>📚<a href="https://www.alexbeciana.com/after-graduation-2/" target="_blank">What I've learned since graduating from a coding bootcamp, Part 2</a>
 | 2020-03-14
@@ -61,15 +54,12 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 | 2020-03-07
 </h4>
 <h4>Check out more blog posts <a href="https://www.alexbeciana.com/" target="_blank">here</a>!</h4>
-<br>
-<br>
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- 
 <h4>📝 Blog Posts</h4>
  -->
  <div id="skills"></div>
-<br>
 <br>
  <h2>My Skills</h2>
  <p align="left">
@@ -94,8 +84,6 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 <br>
 <br>
 <div id="projects"></div>
-<br>
-<br>
 <h2>My Projects</h2>
 <h3>Projects In Progress</h3>
 <div style="border-radius: 20px; padding: 2%; background-color: #FFCD04">
