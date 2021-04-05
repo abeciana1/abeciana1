@@ -64,7 +64,8 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
  <h2>My Skills</h2>
  <p align="left">
  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby"/>
- <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" width="40" height="40"/>
+ <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="Rails" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" />
  <img src="https://img.icons8.com/color/48/000000/ruby-gem.png" alt="Ruby Gems" />
  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
