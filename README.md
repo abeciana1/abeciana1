@@ -47,11 +47,11 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 <br>
 <div id="blog-posts"></div>
 <h2>📝 Recent Blog Posts</h2>
-<h4>📚<a href="https://www.alexbeciana.com/after-graduation-2/" target="_blank">What I've learned since graduating from a coding bootcamp, Part 2</a>
-| 2020-03-14
+<h4>📚<a href="https://www.alexbeciana.com/state-management-with-redux-3/" target="_blank">State Management with Redux, Part 3</a>
+| 2020-04-04
 </h4>
-<h4>📚<a href="https://www.alexbeciana.com/after-graduation-1/" target="_blank">What I've learned since graduating from a coding bootcamp, Part 1</a>
-| 2020-03-07
+<h4>📚<a href="https://www.alexbeciana.com/state-management-with-redux-2/" target="_blank">State Management with Redux, Part 2</a>
+| 2020-03-27
 </h4>
 <h4>Check out more blog posts <a href="https://www.alexbeciana.com/" target="_blank">here</a>!</h4>
 <!-- - ⚡ Fun fact: ... -->
