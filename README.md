@@ -47,11 +47,11 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 <br>
 <div id="blog-posts"></div>
 <h2>📝 Recent Blog Posts</h2>
+<h4>📚<a href="https://www.alexbeciana.com/state-management-with-redux-4/" target="_blank">State Management with Redux, Part 4</a>
+| 2020-04-11
+</h4>
 <h4>📚<a href="https://www.alexbeciana.com/state-management-with-redux-3/" target="_blank">State Management with Redux, Part 3</a>
 | 2020-04-04
-</h4>
-<h4>📚<a href="https://www.alexbeciana.com/state-management-with-redux-2/" target="_blank">State Management with Redux, Part 2</a>
-| 2020-03-27
 </h4>
 <h4>Check out more blog posts <a href="https://www.alexbeciana.com/" target="_blank">here</a>!</h4>
 <!-- - ⚡ Fun fact: ... -->
