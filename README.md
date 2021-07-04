@@ -121,7 +121,10 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true" alt="abeciana" /></p> -->
 <br>
 <br>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeciana1&layout=compact&hide=html" alt="abeciana" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeciana1&layout=compact" alt="abeciana" />
+
+<!-- [![abeciana1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abeciana1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
  <!-- </p> -->
 <!-- <p> -->
 <img src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true&include_all_commits=true" alt="abeciana1" />
