@@ -16,7 +16,7 @@
 </div>
 
 <!-- ![f](/images/GitHub-banner-photo) -->
-<img src="./images/GitHub-banner-photo.png" alt="Alex Beciana" />
+<img src="./images/GitHub-banner-photo-new.png" alt="Alex Beciana" />
 
 <h3 align="center">
 Full-stack software engineer with an entrepreneurial spirit with experience in digital marketing and leading a startup.
