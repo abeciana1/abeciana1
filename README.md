@@ -33,11 +33,11 @@ Full-stack software engineer with an entrepreneurial spirit with experience in d
 <br/>
 <br/>
 <div style="font-size: 16px">
-    <li>🔭 I’m currently working on <strong>Jobase</strong></li>
-    <li>🌱 I’m currently learning <strong>NextJS</strong></li>
+    <li>🔭 I’m currently working on <strong>Compil</strong></li>
+    <li>🌱 I’m currently learning <strong>Data Structures and Algorithms</strong></li>
     <li>👯 I’m looking to collaborate on <strong>open-source projects</strong></li>
     <li>🤔 I’m looking for help with <strong>career mentorship</strong> and <strong>side-project partners</strong></li>
-    <li>📫 How to reach me: <a href="mailto:alex.beciana@gmail.com">alex.beciana@gmail.com</a></li>
+    <li>📫 How to reach me: <a href="mailto:alexander.beciana@gmail.com">alexander.beciana@gmail.com</a></li>
     <li>🏃 Keep up with me on my <a href="https://alexbeciana.com/" target="_blank" alt="Alex Beciana - Portfolio">portfolio</a></li>
     <li>🏋 <a href="https://alexbeciana.com/" target="_blank" alt="Alex Beciana - Skills, Experience, and Education">Learn more</a> about professional skills, experience, and education </li>
     <li>😄 Pronouns: He/Him</li>
