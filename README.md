@@ -7,8 +7,6 @@
 |
 <a href="#dev-jokes">Dev Jokes</a>
 |
-<a href="#blog-posts">Recent Blog Posts</a>
-|
 <a href="#skills">My Skills</a>
 |
 <a href="#projects">My Projects</a>
@@ -32,33 +30,17 @@ Full-stack software engineer with an studious spirit with experience in digital 
 <div>Full-stack software engineer with 3 years of experience with a studious spirit. I also have 5 years of digital marketing, product management, and community management experience, working in tech (startup to FAANG), education, and music as well as leading a profitable startup. I'm accustomed to the Agile methodology, working across technical and non-technical teams, and managing project roadmaps.</div>
 <br/>
 <br/>
-<div style="font-size: 16px">
-    <li>🔭 I’m currently working on <strong>Compil</strong></li>
-    <li>🌱 I’m currently learning <strong>Data Structures and Algorithms</strong></li>
+<ul style="font-size: 1.2rem; list-style-type: none;">
+    <li>🔭 I’m thinking about my next project.</li>
+    <li>🌱 I’m brushing up on my <strong>Data Structures and Algorithms</strong></li>
     <li>👯 I’m looking to collaborate on <strong>open-source projects</strong></li>
-    <li>🤔 I’m looking for help with <strong>career mentorship</strong> and <strong>side-project partners</strong></li>
     <li>📫 How to reach me: <a href="mailto:alexander.beciana@gmail.com">alexander.beciana@gmail.com</a></li>
     <li>🏃 Keep up with me on my <a href="https://alexbeciana.com/" target="_blank" alt="Alex Beciana - Portfolio">portfolio</a></li>
-    <li>🏋 <a href="https://alexbeciana.com/" target="_blank" alt="Alex Beciana - Skills, Experience, and Education">Learn more</a> about professional skills, experience, and education </li>
+    <li>🏋 <a href="https://alexbeciana.com/about" target="_blank" alt="Alex Beciana - Skills, Experience, and Education">Learn more</a> about professional skills, experience, and education </li>
     <li>😄 Pronouns: He/Him</li>
     <li>🎨 Hobbies: Hiking, creating Bauhaus designs, reading, playing music, analyzing films</li>
     <li>💬 Ask me about how I got into engineering</li>
-</div>
-<br>
-<div id="blog-posts"></div>
-<h2>📝 Recent Blog Posts</h2>
-<h4>📚<a href="https://alexbeciana.com/blog/responsive-search-react" target="_blank">Creating a Responsive Search in React</a>
-| 2020-04-25
-</h4>
-<h4>📚<a href="https://alexbeciana.com/blog/web-dev-for-marketers" target="_blank">Web Development Tricks for Marketers</a>
-| 2020-04-18
-</h4>
-<h4>Check out more blog posts <a href="https://alexbeciana.com/" target="_blank">here</a>!</h4>
-<!-- - ⚡ Fun fact: ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- 
-<h4>📝 Blog Posts</h4>
- -->
+</ul>
  <div id="skills"></div>
 <br>
  <h2>My Skills</h2>
@@ -92,7 +74,16 @@ Full-stack software engineer with an studious spirit with experience in digital 
  <img src="./images/twilio-icon.png" alt="Twilio" width="40" height="40"/>
  <img src="./images/hubspot.png" alt="hubspot" width="40" height="40"/>
  <img src="./images/google-analytics.png" alt="Google Analytics" width="40" height="40"/>
+ <img src="./images/gcp.png" alt="Google Cloud Platform" width="40" height="40"/>
  <img src="./images/zapier.png" alt="Zapier" width="40" height="40"/>
+<img src="./images/jenkins.png" alt="Jenkins" width="30" height="40"/>
+<img src="./images/jest.png" alt="Jest" width="40" height="40"/>
+<img src="./images/rtl.png" alt="React Testing Library" width="40" height="40"/>
+<img src="./images/cypress.png" alt="Cypress" width="40" height="40"/>
+<img src="./images/jira.webp" alt="JIRA" width="40" height="40"/>
+<img src="./images/prisma.webp" alt="Prisma" width="35" height="40"/>
+<img src="./images/supabase.webp" alt="Supabase" width="35" height="40"/>
+<img src="./images/postman.webp" alt="Postman" width="35" height="40"/>
  </p>
 <br>
 <br>
