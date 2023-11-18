@@ -1,8 +1,8 @@
  <h1 align="center">👋 Hey, I'm Alex</h1>
 
 <div style="text-align:center">
-<h3>Jump to a section</h3>
-<h4>
+<div style="font-size:2rem;font-weight:600">Jump to a section</div>
+<div style="padding: 1rem 0rem; font-weight:600">
 <a href="#about-me">About Me</a>
 |
 <a href="#dev-jokes">Dev Jokes</a>
@@ -12,24 +12,24 @@
 <a href="#skills">My Skills</a>
 |
 <a href="#projects">My Projects</a>
-</h4>
+</div>
 </div>
 
 <!-- ![f](/images/GitHub-banner-photo) -->
 <img src="./images/GitHub-banner-photo-new.png" alt="Alex Beciana" />
 
-<h3 align="center">
-Full-stack software engineer with an entrepreneurial spirit with experience in digital marketing and leading a startup.
-</h3>
+<div style="font-size:1.5rem;font-weight:600">
+Full-stack software engineer with an studious spirit with experience in digital marketing and leading a startup.
+</div>
 
-<h3 align="center">CEO, Founder of <a href="https://www.sweetstatic.com">Sweet Static</a> and Creator of <a href="https://rubygems.org/gems/rcli_app">rcli_app</a></h3>
+
 <div id="dev-jokes"></div>
 <h2>Dev Dad Jokes</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <div id="about-me"></div>
 <h2>A little more about me...</h2>
-<div>Full-stack software engineer with an entrepreneurial spirit with 5 years of digital marketing, product management, and community management experience, working in tech (startup to FAANG), education, and music as well as leading a profitable startup.  I'm a recent Flatiron School graduate and accustomed to the Agile methodology, working across technical and non-technical teams, and managing project roadmaps.</div>
+<div>Full-stack software engineer with 3 years of experience with a studious spirit. I also have 5 years of digital marketing, product management, and community management experience, working in tech (startup to FAANG), education, and music as well as leading a profitable startup. I'm accustomed to the Agile methodology, working across technical and non-technical teams, and managing project roadmaps.</div>
 <br/>
 <br/>
 <div style="font-size: 16px">
