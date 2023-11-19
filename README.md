@@ -88,8 +88,7 @@ Full-stack software engineer with an studious spirit with experience in digital 
 <br>
 <br>
 <div id="projects"></div>
-<h2>Recent Project</h2>
-<div>Updated on 11/18/23</div>
+<h2>Recent Projects</h2>
 <br>
 <div style="border-radius: 20px;background-color: #FFCD04; padding: 1rem;">
     <h3>Drop The Needle</h3>
