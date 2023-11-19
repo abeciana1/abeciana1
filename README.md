@@ -83,7 +83,7 @@ Full-stack software engineer with an studious spirit with experience in digital 
 <img src="./images/jira.webp" alt="JIRA" width="40" height="40"/>
 <img src="./images/prisma.webp" alt="Prisma" width="35" height="40"/>
 <img src="./images/supabase.webp" alt="Supabase" width="35" height="40"/>
-<img src="./images/postman.webp" alt="Postman" width="35" height="40"/>
+<!-- <img src="./images/postman.webp" alt="Postman" width="35" height="40"/> -->
  </p>
 <br>
 <br>
