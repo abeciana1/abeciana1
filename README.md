@@ -88,28 +88,11 @@ Full-stack software engineer with an studious spirit with experience in digital 
 <br>
 <br>
 <div id="projects"></div>
-<h2>My Projects</h2>
-<h3>Projects In Progress</h3>
+<h2>Recent Project</h2>
+<div>I recently completed this project on 11/18/23</div>
 <div style="border-radius: 20px; padding: 2%; background-color: #FFCD04">
-    <h4>Jobase</h4>
-    A job seeker's best friend. An all-in-one job-seeking tool to find jobs, create a professional profile, and so much more.
-    <br>
-    <br>
-    <div style="text-align: center">
-    <a href="https://github.com/abeciana1/email-signature-frontend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=email-signature-frontend" alt="Jobase"/>
-    </a>
-    <a href="https://github.com/abeciana1/email_signature_backend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=email_signature_backend" alt="Jobase" />
-    </a>
-    </div>
-</div>
-<br>
-<br>
-<h3>Completed Projects</h3>
-<div style="border-radius: 20px; padding: 2%; background-color: #FFCD04">
-    <h4>Le Cine</h4>
-    A film club management app to bring meaningful conversation and film lovers together under one roof.
+    <h3>Drop The Needle</h3>
+    A power hour management app for participants and hosts. This project was created 
     <br>
     <br>
     <div style="text-align: center">
