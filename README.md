@@ -89,18 +89,16 @@ Full-stack software engineer with an studious spirit with experience in digital 
 <br>
 <div id="projects"></div>
 <h2>Recent Project</h2>
-<div>I recently completed this project on 11/18/23</div>
-<div style="border-radius: 20px; padding: 2%; background-color: #FFCD04">
+<div>Updated on 11/18/23</div>
+<br>
+<div style="border-radius: 20px;background-color: #FFCD04; padding: 1rem;">
     <h3>Drop The Needle</h3>
-    A power hour management app for participants and hosts. This project was created 
+    A power hour management app for participants and hosts. This project was created as a more intuitive alternative to MyTube60.
     <br>
     <br>
     <div style="text-align: center">
-    <a href="https://github.com/abeciana1/le-cine-frontend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=le-cine-frontend" alt="Le Cine"/>
-    </a>
-    <a href="https://github.com/abeciana1/le-cine-backend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=le-cine-backend" alt="Le Cine" />
+    <a href="https://github.com/abeciana1/drop-the-needle" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abeciana1&repo=drop-the-needle" alt="Drop The Needle"/>
     </a>
     </div>
 </div>
@@ -109,11 +107,6 @@ Full-stack software engineer with an studious spirit with experience in digital 
 <br>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeciana1&layout=compact" alt="abeciana" />
-
-<!-- [![abeciana1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abeciana1&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
- <!-- </p> -->
-<!-- <p> -->
-<img src="https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=true&include_all_commits=true" alt="abeciana1" />
 </p>
 
 <!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeciana1&show_icons=false&include_all_commits=true) -->
